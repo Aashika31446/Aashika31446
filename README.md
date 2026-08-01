@@ -98,8 +98,6 @@ An interactive dashboard built with Power BI to visualize customer sentiment tre
 
 <img src="https://streak-stats.demolab.com/?user=Aashika31446&theme=nord&border=8b5cf6&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aashika31446&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashika31446&theme=react-dark&hide_border=true&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" alt="Contribution Graph"/>
 
 </div>
