@@ -14,33 +14,32 @@
 ---
 
 ### 👩‍💻 Who I Am
+💻 Final-year Computer Science student passionate about Software Engineering and Backend Development.
 
-```typescript
-const aashikaKumari = {
-  title: "Aspiring Software Developer",
-  stack: {
-    languages: ["Python", "C++", "C"],
-    frontend: ["HTML", "CSS", "React", "Tailwind CSS"],
-    backend: ["FastAPI", "Flask"],
-    database: ["MySQL", "MongoDB"],
-    aiTools: ["LangChain", "ChromaDB"],
-    devTools: ["Git", "GitHub", "Postman", "VS Code", "Docker", "Jupyter Lab"],
-    dataVisualization: ["Power BI", "DataWrapper", "Tableau"],
-  },
-  launchedProjects: [
-    "RAG Based AI Teaching Assistant",
-    "Sentiment Analysis Dashboard",
-  ],
-  certifications: [
-    "Data Analyst — Udemy",
-    "Full Stack Generative & Agentic AI",
-  ],
-  status: "Pursuing B.Tech in Computer Science (AI & ML), 2027",
-  openTo: ["Software Developer Roles", "Internships", "Collaborations"],
-};
-```
+🚀 Currently building:
+- Smart Timetable Generator using Constraint Satisfaction & Graph Coloring
+- RAG-Based ai-video audio assistent
 
----
+🌱 Learning:
+- Data Structures & Algorithms
+- System Design
+- Distributed Systems
+- Software Architecture
+- Cloud & DevOps
+
+💼 Interested in:
+- Software Engineering
+- Backend Development
+- Full-Stack Development
+- Database Design
+- Optimization Algorithms
+
+🤝 Looking to collaborate on:
+- Open Source
+- Backend Projects
+- Developer Tools
+- Scalable Web Applications
+
 
 ### 🚀 Featured Projects
 
@@ -56,7 +55,7 @@ An AI-powered teaching assistant that answers student queries using course mater
 | Database | PostgreSQL |
 | Frontend | React |
 
-🔗 [Live](https://edu-ai-omega-roan.vercel.app/login) &nbsp;•&nbsp; 💻 [Code](https://github.com/Aashika31446/ai-teaching-assistant)
+🔗 [Live](https://edu-ai-omega-roan.vercel.app/login) &nbsp;•&nbsp;
 
 ---
 
@@ -70,8 +69,6 @@ An interactive dashboard built with Power BI to visualize customer sentiment tre
 | Data Processing | Python, Pandas |
 | Visualization | Power BI, Excel |
 | Database | SQL |
-
-💻 [Code](https://github.com/Aashika31446/sentiment-analysis-dashboard)
 
 ---
 
