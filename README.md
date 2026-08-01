@@ -14,27 +14,20 @@
 ---
 
 ### 👩‍💻 Who I Am
-💻 Final-year Computer Science student passionate about Software Engineering and Backend Development.
+💻 Final-year Computer Science student passionate about Software Engineering and Backend Development and initiative-driven person who enjoys learning new technologies
 
 🚀 Currently building:
 - Smart Timetable Generator using Constraint Satisfaction & Graph Coloring
 - RAG-Based ai-video audio assistent
 
-🌱 Learning:
-- Data Structures & Algorithms
-- System Design
-- Data analytics
-- Software Architecture
-- genrative ai 
-
-💼 Interested in:
+💼 Interested in:                                                                       
 - Software Engineering
 - Backend Development
 - Full-Stack Development
 - data analytics
 
 🤝 Looking to collaborate on:
-- Open Source
+- analysis project 
 - Backend Projects
 - frontend projects
 - Scalable Web Applications
@@ -44,6 +37,13 @@
 
 #### 🤖 RAG Based AI Teaching Assistant
 An AI-powered teaching assistant that answers student queries using course materials, built with Retrieval-Augmented Generation to ground responses in course-specific knowledge and improve accuracy.
+
+🌱 Learning:
+- Data Structures & Algorithms
+- System Design
+- Data analytics
+- Software Architecture
+- genrative ai models
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashika31446&repo=ai-teaching-assistant&theme=nord&border_color=8b5cf6&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="RAG Based AI Teaching Assistant"/>
 
