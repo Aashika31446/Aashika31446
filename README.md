@@ -23,21 +23,20 @@
 🌱 Learning:
 - Data Structures & Algorithms
 - System Design
-- Distributed Systems
+- Data analytics
 - Software Architecture
-- Cloud & DevOps
+- genrative ai 
 
 💼 Interested in:
 - Software Engineering
 - Backend Development
 - Full-Stack Development
-- Database Design
-- Optimization Algorithms
+- data analytics
 
 🤝 Looking to collaborate on:
 - Open Source
 - Backend Projects
-- Developer Tools
+- frontend projects
 - Scalable Web Applications
 
 
@@ -91,8 +90,6 @@ An interactive dashboard built with Power BI to visualize customer sentiment tre
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,jupyter" />
 
 ---
-
-### 📈 GitHub Stats
 
 <div align="center">
 
