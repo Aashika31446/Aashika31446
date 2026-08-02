@@ -38,13 +38,6 @@
 #### 🤖 RAG Based AI Teaching Assistant
 An AI-powered teaching assistant that answers student queries using course materials, built with Retrieval-Augmented Generation to ground responses in course-specific knowledge and improve accuracy.
 
-🌱 Learning:
-- Data Structures & Algorithms
-- System Design
-- Data analytics
-- Software Architecture
-- genrative ai models
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashika31446&repo=ai-teaching-assistant&theme=nord&border_color=8b5cf6&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="RAG Based AI Teaching Assistant"/>
 
 | Layer | Technology |
@@ -70,6 +63,13 @@ An interactive dashboard built with Power BI to visualize customer sentiment tre
 | Database | SQL |
 
 ---
+🌱 Learning:
+- Data Structures & Algorithms
+- System Design
+- Data analytics
+- Software Architecture
+- genrative ai models
+
 
 ### 🛠️ Tech Stack
 
