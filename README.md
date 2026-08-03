@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=220&section=header&text=Aashika%20Kumari&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20AI%20%26%20ML&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=220&section=header&text=Aashika%20Kumari&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Final-Year%20CS%20Undergraduate%20%7C%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;B.Tech+CS+(AI+%26+ML)+%7C+2027;Building+with+Python%2C+React+%26+RAG;Turning+data+into+decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Final-Year+Computer+Science+Undergraduate;Software+Engineer+%7C+Full-Stack+Developer;Building+Scalable%2C+Real-World+Software;Backend+%2B+AI+%2B+System+Design" alt="Typing SVG" />
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-8B5CF6?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
 
@@ -13,65 +13,24 @@
 
 ---
 
-### 👩‍💻 Who I Am
-💻 Final-year Computer Science student passionate about Software Engineering and Backend Development and initiative-driven person who enjoys learning new technologies
+Passionate about designing and building scalable software that solves real-world problems. I enjoy transforming complex ideas into production-ready applications by combining modern software engineering principles, efficient algorithms, and intuitive user experiences.
 
-🚀 Currently building:
-- Smart Timetable Generator using Constraint Satisfaction & Graph Coloring
-- RAG-Based ai-video audio assistent
+### 💫 About Me
 
-💼 Interested in:                                                                       
-- Software Engineering
-- Backend Development
-- Full-Stack Development
-- data analytics
+My primary interests lie in **Backend Development, Full-Stack Development, Software Architecture, and System Design**. I enjoy building applications that go beyond basic CRUD operations — projects that involve intelligent automation, optimization, distributed systems, and scalable backend architectures.
 
-🤝 Looking to collaborate on:
-- analysis project 
-- Backend Projects
-- frontend projects
-- Scalable Web Applications
+- 🔭 Currently working on projects that reflect my passion for solving meaningful engineering challenges.
+- 🌱 **What I'm Currently Learning:** Advanced Data Structures & Algorithms, System Design, Distributed Systems, Software Architecture, Cloud Computing, Docker & CI/CD, Performance Optimization, Database Engineering.
+- 🎓 Pursuing B.Tech in Computer Science (AI & ML), 2027.
+- 💼 Open to Software Developer Roles, Internships, and Collaborations.
 
+### 🎯 My Mission
 
-### 🚀 Featured Projects
-
-#### 🤖 RAG Based AI Teaching Assistant
-An AI-powered teaching assistant that answers student queries using course materials, built with Retrieval-Augmented Generation to ground responses in course-specific knowledge and improve accuracy.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashika31446&repo=ai-teaching-assistant&theme=nord&border_color=8b5cf6&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="RAG Based AI Teaching Assistant"/>
-
-| Layer | Technology |
-|---|---|
-| Backend | Python, FastAPI |
-| AI / Retrieval | LangChain, ChromaDB |
-| Database | PostgreSQL |
-| Frontend | React |
-
-🔗 [Live](https://edu-ai-omega-roan.vercel.app/login) &nbsp;•&nbsp;
+My goal is to become a software engineer who builds products that solve meaningful real-world problems through scalable architecture, efficient algorithms, and clean engineering practices. I believe software should not only work — it should be reliable, maintainable, scalable, and enjoyable to use. Every project I build is an opportunity to learn, improve, and create something impactful.
 
 ---
 
-#### 📊 Sentiment Analysis Dashboard
-An interactive dashboard built with Power BI to visualize customer sentiment trends and KPIs, powered by cleaned and transformed data for accurate, data-driven insights.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashika31446&repo=sentiment-analysis-dashboard&theme=nord&border_color=8b5cf6&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="Sentiment Analysis Dashboard"/>
-
-| Layer | Technology |
-|---|---|
-| Data Processing | Python, Pandas |
-| Visualization | Power BI, Excel |
-| Database | SQL |
-
----
-🌱 Learning:
-- Data Structures & Algorithms
-- System Design
-- Data analytics
-- Software Architecture
-- genrative ai models
-
-
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
 **Languages**
 <br/>
@@ -79,17 +38,68 @@ An interactive dashboard built with Power BI to visualize customer sentiment tre
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" />
 
 **Backend / Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,mongodb,postgres" />
 
 **AI / Dev Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,jupyter" />
 
+**Data Visualization**
+<br/>
+<img src="https://skillicons.dev/icons?i=powerbi" /> &nbsp; DataWrapper &nbsp;•&nbsp; Tableau
+
 ---
+
+### 🚀 Featured Projects
+
+#### 🤖 [EduAI — AI Teaching Assistant (RAG)](https://edu-ai-omega-roan.vercel.app/login)
+
+An AI-powered teaching assistant that helps students interact with study materials through natural language. Built using Retrieval-Augmented Generation (RAG), it understands uploaded PDFs, performs semantic search, extracts information using OCR, and provides contextual answers with conversation memory.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashika31446&repo=ai-teaching-assistant&theme=nord&border_color=8b5cf6&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="EduAI"/>
+
+- **Key Features:** PDF Upload & Processing, Semantic Search with Vector DB, Conversational Q&A, OCR Support, Multi-Workspace Chat, Context-Aware Responses, Authentication.
+- **Tech Stack:** FastAPI • Next.js • Supabase • PostgreSQL • ChromaDB • LangChain
+
+🔗 [Live Demo](https://edu-ai-omega-roan.vercel.app/login) &nbsp;•&nbsp; 💻 [Code](https://github.com/Aashika31446/ai-teaching-assistant)
+
+---
+
+#### 🧠 [CuraMind](https://curamind-mu.vercel.app/)
+
+A modern AI-powered productivity and wellness platform designed to help users organize their daily workflow, improve focus, and boost productivity through an intuitive and user-friendly interface. Designed with a scalable architecture for future AI integrations.
+
+- **Tech Stack:** Next.js • React • FastAPI • PostgreSQL
+
+🔗 [Live Demo](https://curamind-mu.vercel.app/)
+
+---
+
+#### 📅 Smart Timetable Generator *(In Development)*
+
+A production-oriented timetable generation system that automates academic scheduling using **Constraint Satisfaction Problems (CSP)** and **Graph Coloring Algorithms** instead of traditional manual scheduling. It intelligently allocates classrooms, faculty, laboratories, and subjects while optimizing soft constraints.
+
+- **Features:** Constraint Satisfaction Solver, Graph Coloring, Automatic Conflict Detection, Resource Optimization, Dynamic Generation.
+
+---
+
+#### 📊 Sentiment Analysis Dashboard
+
+An interactive dashboard built with Power BI to visualize customer sentiment trends and KPIs, powered by cleaned and transformed data for accurate, data-driven insights.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashika31446&repo=sentiment-analysis-dashboard&theme=nord&border_color=8b5cf6&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="Sentiment Analysis Dashboard"/>
+
+- **Tech Stack:** Python, Pandas • Power BI, Excel • SQL
+
+💻 [Code](https://github.com/Aashika31446/sentiment-analysis-dashboard)
+
+---
+
+### 📊 GitHub Stats & Contributions
 
 <div align="center">
 
@@ -98,19 +108,27 @@ An interactive dashboard built with Power BI to visualize customer sentiment tre
 
 <img src="https://streak-stats.demolab.com/?user=Aashika31446&theme=nord&border=8b5cf6&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Aashika31446&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashika31446&theme=react-dark&hide_border=true&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-### 🤝 Connect With Me
+### 🌐 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aashika-kumari-999b222a9)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/er.aashika.19)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashikasharma919@gmail.com)
+
+</div>
+
+<div align="center">
+
+*"Great software isn't built by writing more code. It's built by solving the right problems with the right architecture."*
 
 </div>
 
