@@ -18,7 +18,7 @@ I like taking a messy problem and turning it into something that actually runs �
 
 ### 💫 A Bit About Me
 
-I'm most drawn to **Backend Development, Full-Stack Engineering, and applied Machine Learning** — the kind of work where you're not just moving data around but actually reasoning about how a system should be structured. I'd rather spend an extra hour designing something properly than patch it five times later.
+I'm most drawn to **Backend Development, Full-Stack Engineering, and data analitics** — the kind of work where you're not just moving data around but actually reasoning about how a system should be structured. I'd rather spend an extra hour designing something properly than patch it five times later.
 
 * 🔭 Currently building projects that combine AI, automation, and solid backend design.
 * 🌱 Sharpening my skills in Data Structures & Algorithms, Machine Learning, System Design, and Cloud fundamentals (Docker, CI/CD).
