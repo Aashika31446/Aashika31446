@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aashika31446/Aashika31446/main/assets/star-thunder-banner.svg" width="100%"/>
-
 <h1>Aashika Kumari</h1>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;B.Tech+CS+(AI+%26+ML)+%7C+2027;Backend+%2B+Full-Stack+Enthusiast;Learning+one+bug+at+a+time" alt="Typing SVG"/>
@@ -104,8 +102,6 @@ A Power BI dashboard that turns raw customer feedback into something a non-techn
 ### ⭐ • ⭐ • ✨ • 🌟 • ✨ • ⭐ • ⭐
 
 </div>
-
-### 📈 GitHub Stats
 
 <div align="center">
 
