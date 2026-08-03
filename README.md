@@ -1,77 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=220&section=header&text=Aashika%20Kumari&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20AI%20%26%20ML&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aashika31446/Aashika31446/main/assets/star-thunder-banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;B.Tech+CS+(AI+%26+ML)+%7C+2027;Building+with+Python%2C+React+%26+RAG;Turning+data+into+decisions" alt="Typing SVG" />
+<h1>Aashika Kumari</h1>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;B.Tech+CS+(AI+%26+ML)+%7C+2027;Backend+%2B+Full-Stack+Enthusiast;Learning+one+bug+at+a+time" alt="Typing SVG"/>
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-8B5CF6?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
-
 <img src="https://komarev.com/ghpvc/?username=Aashika31446&label=Profile%20Views&color=8b5cf6&style=flat" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Aashika31446?label=Followers&style=flat&color=8b5cf6" alt="Followers"/>
+
+📍 Kanpur, Uttar Pradesh &nbsp;•&nbsp; 📧 aashikasharma919@gmail.com
 
 </div>
 
 ---
 
-### 👩‍💻 Who I Am
+I like taking a messy problem and turning it into something that actually runs — cleanly, reliably, and without falling over the moment real users show up. Most of my time goes into backend logic, data pipelines, and the small architectural decisions that decide whether a project is easy to extend later or a pain to touch again.
 
-```typescript
-const aashikaKumari = {
-  title: "Aspiring Software Developer",
-  stack: {
-    languages: ["Python", "C++", "C"],
-    frontend: ["HTML", "CSS", "React", "Tailwind CSS"],
-    backend: ["FastAPI", "Flask"],
-    database: ["MySQL", "MongoDB"],
-    aiTools: ["LangChain", "ChromaDB"],
-    devTools: ["Git", "GitHub", "Postman", "VS Code", "Docker", "Jupyter Lab"],
-    dataVisualization: ["Power BI", "DataWrapper", "Tableau"],
-  },
-  launchedProjects: [
-    "RAG Based AI Teaching Assistant",
-    "Sentiment Analysis Dashboard",
-  ],
-  certifications: [
-    "Data Analyst — Udemy",
-    "Full Stack Generative & Agentic AI",
-  ],
-  status: "Pursuing B.Tech in Computer Science (AI & ML), 2027",
-  openTo: ["Software Developer Roles", "Internships", "Collaborations"],
-};
-```
+### 💫 A Bit About Me
+
+I'm most drawn to **Backend Development, Full-Stack Engineering, and applied Machine Learning** — the kind of work where you're not just moving data around but actually reasoning about how a system should be structured. I'd rather spend an extra hour designing something properly than patch it five times later.
+
+* 🔭 Currently building projects that combine AI, automation, and solid backend design.
+* 🌱 Sharpening my skills in Data Structures & Algorithms, Machine Learning, System Design, and Cloud fundamentals (Docker, CI/CD).
+* 🎓 B.Tech, Computer Science (AI & ML) — Allenhouse Institute of Technology, Kanpur, Class of 2027.
+* 🏆 Have taken part in AI/Data Science hackathons and enjoy the pressure of building under a deadline.
+* 💼 Open to Software Developer roles, internships, and collaborative projects.
 
 ---
 
-### 🚀 Featured Projects
+### 🎯 What I'm Working Toward
 
-#### 🤖 RAG Based AI Teaching Assistant
-An AI-powered teaching assistant that answers student queries using course materials, built with Retrieval-Augmented Generation to ground responses in course-specific knowledge and improve accuracy.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashika31446&repo=ai-teaching-assistant&theme=nord&border_color=8b5cf6&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="RAG Based AI Teaching Assistant"/>
-
-| Layer | Technology |
-|---|---|
-| Backend | Python, FastAPI |
-| AI / Retrieval | LangChain, ChromaDB |
-| Database | PostgreSQL |
-| Frontend | React |
-
-🔗 [Live](https://edu-ai-omega-roan.vercel.app/login) &nbsp;•&nbsp; 💻 [Code](https://github.com/Aashika31446/ai-teaching-assistant)
-
----
-
-#### 📊 Sentiment Analysis Dashboard
-An interactive dashboard built with Power BI to visualize customer sentiment trends and KPIs, powered by cleaned and transformed data for accurate, data-driven insights.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashika31446&repo=sentiment-analysis-dashboard&theme=nord&border_color=8b5cf6&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="Sentiment Analysis Dashboard"/>
-
-| Layer | Technology |
-|---|---|
-| Data Processing | Python, Pandas |
-| Visualization | Power BI, Excel |
-| Database | SQL |
-
-💻 [Code](https://github.com/Aashika31446/sentiment-analysis-dashboard)
+I want to get good enough at this to build things that hold up under real conditions — not demo-day conditions. That means writing code I'm not embarrassed to revisit in six months, picking the right data structure instead of the first one that works, and treating "it runs on my machine" as the start of the job, not the end of it. Every project here is a step toward that, one refactor at a time.
 
 ---
 
@@ -79,21 +40,70 @@ An interactive dashboard built with Power BI to visualize customer sentiment tre
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,js"/>
 
 **Backend / Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,mongodb"/>
 
-**AI / Dev Tools**
+**Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,jupyter"/>
+
+**Data Visualization**
+<br/>
+Power BI &nbsp;•&nbsp; DataWrapper &nbsp;•&nbsp; Tableau
+
+**Working Style**
+<br/>
+Problem Solving &nbsp;•&nbsp; Teamwork &nbsp;•&nbsp; Leadership &nbsp;•&nbsp; Deadline Management
 
 ---
+
+### 🚀 Projects I've Shipped (and one still in the oven)
+
+#### 🤖 [EduAI — RAG-Based Teaching Assistant](https://edu-ai-omega-roan.vercel.app/login)
+An AI teaching assistant that lets students ask questions in plain language and get answers grounded in their own course material, instead of generic web answers. Uses Retrieval-Augmented Generation to pull relevant context from uploaded PDFs and lecture notes before generating a response.
+
+* **Highlights:** PDF ingestion, semantic search over a vector DB, conversation memory, multi-workspace support, authentication.
+* **Stack:** FastAPI • React • LangChain • ChromaDB • PostgreSQL
+
+🔗 [Live Demo](https://edu-ai-omega-roan.vercel.app/login) &nbsp;•&nbsp; 💻 [Code](https://github.com/Aashika31446/ai-teaching-assistant)
+
+---
+
+#### 📅 Smart Timetable Generator *(in development)*
+Academic timetabling is a classic constraint problem disguised as an admin task — this project treats it that way. It models classrooms, faculty, and subjects as a **Constraint Satisfaction Problem** and applies **Graph Coloring** to resolve clashes automatically, instead of someone manually juggling a spreadsheet.
+
+* **Focus areas:** CSP solving, graph coloring for conflict-free scheduling, automatic clash detection, resource optimization.
+
+---
+
+#### 📊 Sentiment Analysis Dashboard
+A Power BI dashboard that turns raw customer feedback into something a non-technical stakeholder can actually act on — sentiment trends, KPIs, and filterable views, backed by a proper Python/Pandas cleaning pipeline underneath.
+
+* **Stack:** Python • Pandas • Power BI • Excel • SQL
+
+💻 [Code](https://github.com/Aashika31446/sentiment-analysis-dashboard)
+
+---
+
+### 📜 Certifications
+
+* **Data Analyst** — Udemy *(Certificate ID: UC-3f2006dc-5b8e-4e9d-a8b1-e3570638ff93)*
+* **Full Stack Generative & Agentic AI** *(Certificate ID: UC-32060d6e-56eb-4eb1-a8bf-e85f70383933)*
+
+---
+
+<div align="center">
+
+### ⭐ • ⭐ • ✨ • 🌟 • ✨ • ⭐ • ⭐
+
+</div>
 
 ### 📈 GitHub Stats
 
@@ -112,7 +122,7 @@ An interactive dashboard built with Power BI to visualize customer sentiment tre
 
 ---
 
-### 🤝 Connect With Me
+### 🌐 Let's Connect
 
 <div align="center">
 
@@ -122,4 +132,10 @@ An interactive dashboard built with Power BI to visualize customer sentiment tre
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=footer" width="100%"/>
+<div align="center">
+
+*"I'd rather ship something small that works than something big that almost does."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
