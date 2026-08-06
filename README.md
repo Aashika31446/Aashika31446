@@ -14,9 +14,7 @@
 
 I'm most drawn to **Backend Development, Full-Stack Engineering, and applied Machine Learning** — the kind of work where you're not just moving data around but actually reasoning about how a system should be structured. I'd rather spend an extra hour designing something properly than patch it five times later.
 
-*   📍 Based in Kanpur, Uttar Pradesh
-*   🎓 **Education:** B.Tech, Computer Science (AI & ML) — Allenhouse Institute of Technology, Kanpur, Class of 2027.
-*   🌱 **What I'm Currently Learning:** Advanced Data Structures & Algorithms, Machine Learning models, System Design, and Cloud fundamentals (Docker, CI/CD).
+*   🌱 Sharpening my skills in Data Structures & Algorithms, Machine Learning, data analytics and software engineering.
 *   🏆 **Interests:** Hackathons, technical blogging, and solving complex constraint-based problems.
 
 > 🎯 **My Mission:** I want to get good enough at this to build things that hold up under real conditions — not demo-day conditions. That means writing code I'm not embarrassed to revisit in six months, picking the right data structure instead of the first one that works, and treating "it runs on my machine" as the start of the job, not the end of it. Every project here is a step toward that, one refactor at a time.
@@ -25,14 +23,32 @@ I'm most drawn to **Backend Development, Full-Stack Engineering, and applied Mac
 
 ### 💻 Tech Stack
 
-<p align="center">
+#### ⚙️ Backend & Databases
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,react,tailwind,js,fastapi,flask,mysql,mongodb,git,github,postman,docker,vscode,jupyter&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,mongodb&theme=dark" alt="Backend Stack" />
   </a>
 </p>
 
-<p align="center">
-  <strong>Data Visualization:</strong> Power BI &nbsp;•&nbsp; DataWrapper &nbsp;•&nbsp; Tableau
+#### 🎨 Languages & Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,react,js,tailwind&theme=dark" alt="Frontend Stack" />
+  </a>
+</p>
+
+#### 📊 Data Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Datawrapper-FF6B6B?style=for-the-badge&logo=datawrapper&logoColor=white" alt="Datawrapper" />
+</p>
+
+#### 🔧 Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,postman&theme=dark" alt="Tools & Platforms" />
+  </a>
 </p>
 
 ---
@@ -84,7 +100,6 @@ A Power BI dashboard that turns raw customer feedback into something a non-techn
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:aashikasharma919@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/aashika-kumari-999b222a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/er.aashika.19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
