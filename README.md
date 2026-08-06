@@ -14,7 +14,7 @@
 
 I'm most drawn to **Backend Development, Full-Stack Engineering, and applied Machine Learning** — the kind of work where you're not just moving data around but actually reasoning about how a system should be structured. I'd rather spend an extra hour designing something properly than patch it five times later.
 
-*   🌱 Sharpening my skills in Data Structures & Algorithms, Machine Learning, data analytics and software engineering.
+*   🌱 Sharpening my skills in Data Structures & Algorithms, Machine Learning, data analytics and full stack development).
 *   🏆 **Interests:** Hackathons, technical blogging, and solving complex constraint-based problems.
 
 > 🎯 **My Mission:** I want to get good enough at this to build things that hold up under real conditions — not demo-day conditions. That means writing code I'm not embarrassed to revisit in six months, picking the right data structure instead of the first one that works, and treating "it runs on my machine" as the start of the job, not the end of it. Every project here is a step toward that, one refactor at a time.
