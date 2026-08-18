@@ -26,7 +26,7 @@ I'm most drawn to **Backend Development, Full-Stack Engineering, and applied Mac
 #### ⚙️ Backend & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,mongodb&theme=dark" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb&theme=dark" alt="Backend Stack" />
   </a>
 </p>
 
@@ -82,19 +82,9 @@ A Power BI dashboard that turns raw customer feedback into something a non-techn
 <br/>
 <div align="center">
   <a href="https://github.com/Aashika31446">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aashika31446&show_icons=true&theme=radical&hide_border=true" alt="Aashika's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Aashika31446">
     <img src="https://streak-stats.demolab.com/?user=Aashika31446&theme=radical&hide_border=true" alt="Aashika's GitHub Streak" width="48%" />
   </a>
 </div>
-<br/>
-<div align="center">
-  <a href="https://github.com/Aashika31446">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashika31446&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
 ---
 
 ### 🌐 Let's Connect
